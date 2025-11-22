@@ -1,4 +1,4 @@
-- 👀 Entusiasta em Tecnologia da Informação e estudante de Ciência da Computação (UFRRj)
+- 👀 Entusiasta em Tecnologia da Informação e formado em Ciência da Computação (UFRRj)
 - 📫 Contato: allanmxr@gmail.com
 
 ## Tecnologias
