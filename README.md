@@ -4,4 +4,4 @@ Senior Software Engineer at Great Softwares, in Brazil. I build backend systems 
 
 Most of my work lives in private repositories. Case studies at **[allanmxr.com.br](https://allanmxr.com.br)** · **[Resume](https://allanmxr.com.br/resume)**
 
-[allanmxr@gmail.com](mailto:allanmxr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/allan-marcelino-387040244)
+[allanmxr@gmail.com](mailto:allanmxr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/allanmxr)
